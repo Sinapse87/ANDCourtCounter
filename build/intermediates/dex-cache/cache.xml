@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pp.lucaal/Code/Mine/Nanodegree/BeginningAndroidDevelopment/ANDCourtCounter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="965f8ee3eceb6823fcc6cb5432b1ed0d8044ce3a">
+        <dex dex="/Users/pp.lucaal/Code/Mine/Nanodegree/BeginningAndroidDevelopment/ANDCourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bae98910d638774422b72afcb4bc6194cfe397af/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pp.lucaal/Code/Mine/Nanodegree/BeginningAndroidDevelopment/ANDCourtCounter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="45d536ed2d925a1d8dd6134b37fbf21257e1f6aa">
+        <dex dex="/Users/pp.lucaal/Code/Mine/Nanodegree/BeginningAndroidDevelopment/ANDCourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ab9c83de598d0040213196072731394c781e5b1a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pp.lucaal/Code/Mine/Nanodegree/BeginningAndroidDevelopment/ANDCourtCounter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/pp.lucaal/Code/Mine/Nanodegree/BeginningAndroidDevelopment/ANDCourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_b44657dbac94987d1676c6e6474aef843f12dcaf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pp.lucaal/Code/Mine/Nanodegree/BeginningAndroidDevelopment/ANDCourtCounter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/pp.lucaal/Code/Mine/Nanodegree/BeginningAndroidDevelopment/ANDCourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_38726cda114a144edd3baf42be7ce329a191fecc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pp.lucaal/Code/Mine/Nanodegree/BeginningAndroidDevelopment/ANDCourtCounter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/pp.lucaal/Code/Mine/Nanodegree/BeginningAndroidDevelopment/ANDCourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_a956b3008af902d12e091005d7dd8919518c3f20/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pp.lucaal/Code/Mine/Nanodegree/BeginningAndroidDevelopment/ANDCourtCounter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/pp.lucaal/Code/Mine/Nanodegree/BeginningAndroidDevelopment/ANDCourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_5cc5d4d008945ee96eda1cb5a805b0782e0f3f83/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pp.lucaal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/pp.lucaal/Code/Mine/Nanodegree/BeginningAndroidDevelopment/ANDCourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_f260ea63aa9af38fb7e5d29e035d81c1da78866a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/pp.lucaal/Code/Mine/Nanodegree/BeginningAndroidDevelopment/ANDCourtCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/pp.lucaal/Code/Mine/Nanodegree/BeginningAndroidDevelopment/ANDCourtCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_726c2d54dc57d25ebf01b3e844eeaa01148a831f/classes.dex" />
+    </item>
+
+</items>
